@@ -1,4 +1,6 @@
-﻿# Loan Calculator App
+# Akash  Parmar﻿
+
+# Loan Calculator App
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-5.14.3-purple.svg)](https://mui.com/)
@@ -28,8 +30,8 @@ A modern, feature-rich loan calculator web application built with React and Mate
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Pavanshub/loan-calculator-app.git
-cd loan-calculator-app
+git clone https://github.com/Akashparmar1/LoanCalculator.git
+cd LoanCalculator
 ```
 
 2. Install dependencies:
@@ -115,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [Click Here](https://loancalc-by-krishna.netlify.app/)
+Project Link: [Click Here]([https://loancalc-by-krishna.netlify.app/](https://loan-calculator-eta-blue.vercel.app/))
 
 ## 🙏 Acknowledgments
 
